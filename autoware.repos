@@ -74,8 +74,8 @@ repositories:
   # sensor_kit
   sensor_kit/sample_sensor_kit_launch:
     type: git
-    url: https://github.com/autowarefoundation/sample_sensor_kit_launch.git
-    version: 3de568d173547c3605ef444944c540ad49db7471
+    url: https://github.com/ChunTing-Wu/sample_sensor_kit_launch.git
+    version: main
   sensor_kit/external/awsim_sensor_kit_launch: # TODO: Integrate into sample_sensor_kit_launch
     type: git
     url: https://github.com/RobotecAI/awsim_sensor_kit_launch.git
@@ -83,8 +83,8 @@ repositories:
   # vehicle
   vehicle/sample_vehicle_launch:
     type: git
-    url: https://github.com/ChunTing-Wu/sample_sensor_kit_launch.git
-    version: main
+    url: https://github.com/autowarefoundation/sample_vehicle_launch.git
+    version: 516c960dd1880193c50346d8171a9418d9757d61
   vehicle/external/pacmod_interface:
     type: git
     url: https://github.com/tier4/pacmod_interface.git
